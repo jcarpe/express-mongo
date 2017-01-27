@@ -1,0 +1,15 @@
+{
+  "name": "express-mongodb-boiler",
+  "version": "1.0.0",
+  "description": "example of express node application connecting to mongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Carpenito",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.22"
+  }
+}
